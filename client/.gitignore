@@ -9,9 +9,6 @@
 # production
 /build
 
-# solution
-/src/components
-/src/containers
 
 # misc
 .DS_Store
